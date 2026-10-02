@@ -1,0 +1,32 @@
+cineMatch/
+│
+├── frontend/
+│   ├── index.html
+│   ├── movie.html
+│   ├── profile.html
+│   ├── style.css
+│   └── app.js
+│
+├── backend/
+│   ├── main.py
+│   ├── routes/
+│   │   ├── movies.py
+│   │   ├── recommendations.py
+│   │   └── users.py
+│   ├── services/
+│   │   └── recommender.py
+│   └── models/
+│
+├── ml/
+│   ├── preprocessing.py
+│   ├── content_based.py
+│   ├── collaborative.py
+│   ├── hybrid.py
+│   └── evaluation.py
+│
+├── data/
+│
+├── notebooks/
+│   └── experimentation.ipynb
+├── requirements.txt
+└── README.md
